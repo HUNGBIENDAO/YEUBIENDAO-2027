@@ -1,0 +1,6 @@
+{
+  "name": "TEEN YÊU BIỂN ĐẢO - Lịch 2027",
+  "description": "Bộ lịch 2027 tương tác dành cho giới trẻ Việt Nam tôn vinh chủ quyền biển đảo, khám phá Trường Sa, Hoàng Sa, Nhà giàn DK1 và các danh thắng hải đảo quê hương.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
